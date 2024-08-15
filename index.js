@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Developed by C H I E F"];
+const statusMessages = ["Developed by AXP丨CHIEF"];
 
 
 let currentIndex = 0;
