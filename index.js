@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["DEVELOPED BY - AXP丨CHIEF"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = [ 'dnd', 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
