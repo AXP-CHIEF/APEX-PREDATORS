@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["DEVELOPED BY - AXP丨CHIEF"];
+const statusMessages = ["Developed by axp_chief"];
 const statusTypes = [ 'dnd', 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
